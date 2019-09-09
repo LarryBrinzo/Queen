@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Queen</string>
+    <string name="facebook_app_id">2369971853250517</string>
+    <string name="fb_login_protocol_scheme">fb2369971853250517</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_cat">Categories</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_bag">Bag</string>
+</resources>
